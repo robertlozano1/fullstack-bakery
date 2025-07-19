@@ -59,15 +59,15 @@ ul {
   background-color: lightgray;
   padding: 1px;
   padding-bottom: 10px;
+  align-items: left;
   margin-top: 10px;
   text-wrap: wrap;
   font-family: helvetica;
-  align-items: flex-start;
-}
+  }
 
 blockquote {
   font-style: italic;
-}
+  }
 
 figcaption {
   font-style: italic;
@@ -98,4 +98,4 @@ footer {
   font-weight: lighter;
   background-color: black;
   padding: 1rem;
-}
+}   
